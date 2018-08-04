@@ -20,5 +20,4 @@ while True:
 
     print(bst.preOrder())
 
-bst
 
